@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.1ra_app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Mi 1ra App</name>
+<widget id="Android" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Myhystory</name>
     <description>
         Probando phonegap
     </description>
-    <author email="chaman@gmail.com" href="http://adivino-tu-suerte.com">
+    <author email="camanecer.el24@gmail.com" href="http://mao-ramos.com">
         Cambiar autor
     </author>
     <preference name="permissions" value="none" />
